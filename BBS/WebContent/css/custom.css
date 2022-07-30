@@ -1,0 +1,10 @@
+/* 구글 폰트 가져오기 */
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+@import url(http://fonts.googleapis.com/earlyaccess/hanna.css);
+
+*{
+	font-family: 'Nanum Gothic';
+}
+h1 {
+	font-family: 'Hanna';
+}
